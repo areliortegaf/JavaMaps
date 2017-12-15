@@ -34,7 +34,7 @@ public class JavaMaps extends Application {
     String puntoB ="Madrid";
     String direccionStreetView = "Walter Scott #906, Alamedas, Chihuahua Mexico";
     String direccionMapaEstatico = "Madrid, Puerta del Sol";
-    String claveAPI ="AIzaSyCdT8ToFL_wPbdxGB4wpcUqcQMQcA0I5qY";
+    String claveAPI ="AIza......................";
     double placesLat = 40.4171111;
     double placesLng = -3.7031133;
     String url = "http://google.com";
